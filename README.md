@@ -1,4 +1,4 @@
-actakami
+actakami (Autumn Camp Takami)
 ========
 
-Autumn Camp Takami
+今回触るのは，src以下のファイルです．
